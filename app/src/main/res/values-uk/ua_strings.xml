@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="door_hint">слишком темно.</string>
+    <string name="cow_hint">божья коровка</string>
+    <string name="hair_hint">волос</string>
+    <string name="main_hint">тут мрачно</string>
+    <string name="about_picture">Написана в Арлі у 1888 році. Купив їх єдиний художник, який був згоден приїхати до нього - Поль Гоген.</string>
+    <string name="about_author">(1853 – 1890)Нідерландський художник - постімпрессіоніст,
+         чиї роботи надали позачасове вплив на живопис XX століття.</string>
+    <string name="language">Мова:</string>
+    <string name="dark1">Занадто темно, </string>
+    <string name="dark2">не можу прочитати</string>
+    <string name="cant_see">Все ще не можу роздивитись..</string>
+    <string name="letter1">Це лист комусь</string>
+    <string name="letter2">він написаний французькою..</string>
+    <string name="lighter">О! Стало світліше</string>
+    <string name="free_ladybug">Супер, букашку випустили</string>
+    <string name="curtain_question">За що зачепити штори?</string>
+    <string name="who">Емм..аа..хто це?</string>
+    <string name="sunflowers_question">У нього в руках..соняшники?</string>
+    <string name="let_ladybug_be_free">Відпусти корівку у вікно</string>
+    <string name="wow">Вау)</string>
+    <string name="its_clipses">Це завязки для штор</string>
+    <string name="hm_yellow_towel">Хм, жовтий рушник</string>
+    <string name="okay_there_is_water">Добре, вода є</string>
+    <string name="beautiful_vaze">Гарна ваза..</string>
+    <string name="needed_water">Для квіток потрібна вода</string>
+    <string name="there_water">Там є вода</string>
+    <string name="water">Це вода</string>
+    <string name="dirty_water">Але в ній мили пензлики…</string>
+    <string name="preview_phrase">Дії породжують мистецтво, але яке, і які?..</string>
+    <string name="bio1">1888 рік. літо. місто Арль, Франція.</string>
+    <string name="bio2">Ван Гог прибуває в Арль. Сюди для спільного розвитку нового напряму він запрошує декількох художників.</string>
+    <string name="bio3">Приїхати погоджується тільки Поль Гоген…</string>
+    <string name="bio4">Ван Гог так йому вдячний, що вирішує прикрасити його кімнату натюрмортами з соняшниками…</string>
+    <string name="hint_author">Пройдіть рівень, щоб дізнатися інформацію про художника, життя якого частково описано у рівні.</string>
+    <string name="hint_picture">Пройдіть рівень, щоб дізнатися, яку картину намалював художник цього рівня.</string>
+    <string name="name_vinsent">Вінсент ван Гог</string>
+    <string name="name_sunflowers">"Соняшники"</string>
+    <string name="if_backgr">А якщо і фон буде жовтим?</string>
+    <string name="true_naturmort">Ось це справжній натюрморт!!</string>
+    <string name="first_question">Що це за місце?</string>
+    <string name="hint_1889">Скоро будет новий рівень ))</string>
+
+</resources>

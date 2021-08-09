@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="door_hint">слишком темно.</string>
+    <string name="cow_hint">божья коровка</string>
+    <string name="hair_hint">волос</string>
+    <string name="main_hint">тут мрачно</string>
+    <string name="about_picture">Написана в Арле в 1888 году. Купил их единственный
+         художник, который согласился приехать к ниму - Поль Гоген.</string>
+    <string name="about_author">(1853 – 1890) Нидерландский художник - постимпрессионист,
+        чьи работы оказали вневременное влияние на живопись XX века.</string>
+    <string name="language">Язык:</string>
+    <string name="dark1">Слишком темно, </string>
+    <string name="dark2">не могу прочесть</string>
+    <string name="cant_see">Все еще не могу разглядеть..</string>
+    <string name="letter1">Это письмо кому то</string>
+    <string name="letter2">оно написано на французском..</string>
+    <string name="lighter">О! Стало светлее</string>
+    <string name="free_ladybug">Отлично, букашку выпустили</string>
+    <string name="curtain_question">За что зацепить шторы?</string>
+    <string name="who">Эмм..аа..кто это?</string>
+    <string name="sunflowers_question">У него в руках..подсолнухи?</string>
+    <string name="let_ladybug_be_free">Выпусти коровку в окно</string>
+    <string name="wow">Ух-ты)</string>
+    <string name="its_clipses">Это завязки для штор</string>
+    <string name="hm_yellow_towel">Хм, желтое полотенце</string>
+    <string name="okay_there_is_water">Хорошо, вода есть</string>
+    <string name="beautiful_vaze">Красивая ваза..</string>
+    <string name="needed_water">Для цветочков нужна вода</string>
+    <string name="there_water">Там есть вода</string>
+    <string name="water">Это вода</string>
+    <string name="dirty_water">Но в ней мыли кисти…</string>
+    <string name="preview_phrase">Действия порождают искусство, но какое, и какие?..</string>
+    <string name="bio1">1888 год. лето. город Арль, Франция.</string>
+    <string name="bio2">Ван Гог прибывает в Арль. Сюда для совместного развития нового направления он приглашает нескольких художников.</string>
+    <string name="bio3">Приехать соглашается только Поль Гоген…</string>
+    <string name="bio4">Ван Гог так ему благодарен, что решает украсить его комнату натюрмортами с подсолнухами…</string>
+    <string name="hint_author">Пройдите уровень, что бы узнать информацию о художнике, жизнь которого частично описана в уровне.</string>
+    <string name="hint_picture">Пройдите уровень, что бы узнать какую картину нарисовал художник этого уровня</string>
+    <string name="name_vinsent">Винсент ван Гог</string>
+    <string name="name_sunflowers">"Подсолнухи"</string>
+    <string name="if_backgr">А если и фон будет желтым?</string>
+    <string name="true_naturmort">Вот это настоящий натюрморт!</string>
+    <string name="first_question">Что это за место?</string>
+    <string name="hint_1889">Скоро будет новый уровень ))</string>
+
+
+</resources>

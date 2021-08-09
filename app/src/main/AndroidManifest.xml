@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="prosperity.best.game">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cowzoom"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="prosperity.best.game.menu.FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="prosperity.best.game.menu.MenuActivityIGNORE"/>
+        <activity android:name="prosperity.best.game.fragmentsVersion.ChestActivity"/>
+        <activity android:name="prosperity.best.game.menu.PictureActivityIGNORE"/>
+        <activity android:name="prosperity.best.game.menu.vangogh1888.VanGoghBio1888"/>
+        <activity android:name="prosperity.best.game.menu.vangogh1888.PreviewActivity1888"/>
+        <activity android:name=".menu.vangogh1888.Menu1888"/>
+        <activity android:name=".menu.vangogh1889.Menu1889"/>
+    </application>
+
+</manifest>

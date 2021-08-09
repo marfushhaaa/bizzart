@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="door_hint">слишком темно.</string>
+    <string name="cow_hint">божья коровка</string>
+    <string name="hair_hint">волос</string>
+    <string name="main_hint">тут мрачно</string>
+    <string name="about_picture">Written in Arles in 1888. Bought them the only one
+          the artist who agreed to come to him - Paul Gauguin.</string>
+    <string name="about_author">(1853 – 1890) Dutch post-impressionist painter,
+         whose works had a timeless influence on 20th century painting.</string>
+    <string name="language">Language:</string>
+    <string name="dark1">Too dark, </string>
+    <string name="dark2">can`t read</string>
+    <string name="cant_see">Still can`t see..</string>
+    <string name="letter1">This is a letter to someone</string>
+    <string name="letter2">it is written in french..</string>
+    <string name="lighter">Oh! It got lighter</string>
+    <string name="free_ladybug">Great, the bug has gone away</string>
+    <string name="curtain_question">What should the curtains be hooked on?</string>
+    <string name="who">Umm..aa..who is it?</string>
+    <string name="sunflowers_question">He has.... sunflowers ?</string>
+    <string name="let_ladybug_be_free">Let the bug out the window</string>
+    <string name="wow">Wow)</string>
+    <string name="its_clipses">These`re the curtain ties</string>
+    <string name="hm_yellow_towel">Hmm, yellow towel</string>
+    <string name="okay_there_is_water">Okay, there`s water</string>
+    <string name="beautiful_vaze">Beautiful vase..</string>
+    <string name="needed_water">Flowers need water</string>
+    <string name="there_water">There is water</string>
+    <string name="water">This is water, but they</string>
+    <string name="dirty_water"> washed their brushes in it…</string>
+    <string name="preview_phrase">Actions give rise to art, but what kind, and what type?..</string>
+    <string name="bio1">1888 summer. Arles, France.</string>
+    <string name="bio2">Van Gogh arrives in Arles. He invites several artists here for the joint development of a new direction.</string>
+    <string name="bio3">Only Paul Gauguin agrees to come …</string>
+    <string name="bio4">Van Gogh is so grateful to him that he decides to decorate his room with still lifes with sunflowers.…</string>
+    <string name="hint_author">Complete the level to find out information about the artist, whose life is partially described in the level.</string>
+    <string name="hint_picture">Complete the level to find out what picture the artist of this level painted.</string>
+    <string name="name_vinsent">Vincent Van Gogh</string>
+    <string name="name_sunflowers">"Sunflowers"</string>
+    <string name="if_backgr">Where`s yellow background?</string>
+    <string name="true_naturmort">This is a real still life!</string>
+    <string name="first_question">What kind of place is it?</string>
+    <string name="hint_1889">The next level is coming soon ))</string>
+
+</resources>
